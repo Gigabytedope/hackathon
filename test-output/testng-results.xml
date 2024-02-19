@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="24" passed="24" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-15T13:00:32 IST" name="Suite" finished-at="2024-02-15T13:03:47 IST" duration-ms="194676">
+    <groups>
+      <group name="Master">
+        <method signature="TC001_HomePageTest.test1()[pri:1, instance:TestCases.TC006_HealthInsuranceNewTest@3857f613]" name="test1" class="TestCases.TC001_HomePageTest"/>
+        <method signature="TC002_TravelDetailsTest.test2()[pri:2, instance:TestCases.TC006_HealthInsuranceNewTest@3857f613]" name="test2" class="TestCases.TC002_TravelDetailsTest"/>
+        <method signature="TC002_TravelDetailsTest.test3()[pri:3, instance:TestCases.TC006_HealthInsuranceNewTest@3857f613]" name="test3" class="TestCases.TC002_TravelDetailsTest"/>
+        <method signature="TC002_TravelDetailsTest.test4()[pri:4, instance:TestCases.TC006_HealthInsuranceNewTest@3857f613]" name="test4" class="TestCases.TC002_TravelDetailsTest"/>
+        <method signature="TC002_TravelDetailsTest.test5()[pri:5, instance:TestCases.TC006_HealthInsuranceNewTest@3857f613]" name="test5" class="TestCases.TC002_TravelDetailsTest"/>
+        <method signature="TC002_TravelDetailsTest.test6()[pri:6, instance:TestCases.TC006_HealthInsuranceNewTest@3857f613]" name="test6" class="TestCases.TC002_TravelDetailsTest"/>
+        <method signature="TC002_TravelDetailsTest.test7()[pri:7, instance:TestCases.TC006_HealthInsuranceNewTest@3857f613]" name="test7" class="TestCases.TC002_TravelDetailsTest"/>
+        <method signature="TC002_TravelDetailsTest.test8()[pri:8, instance:TestCases.TC006_HealthInsuranceNewTest@3857f613]" name="test8" class="TestCases.TC002_TravelDetailsTest"/>
+        <method signature="TC003_CarInsuranceTest.test9()[pri:9, instance:TestCases.TC006_HealthInsuranceNewTest@3857f613]" name="test9" class="TestCases.TC003_CarInsuranceTest"/>
+        <method signature="TC003_CarInsuranceTest.test10()[pri:10, instance:TestCases.TC006_HealthInsuranceNewTest@3857f613]" name="test10" class="TestCases.TC003_CarInsuranceTest"/>
+        <method signature="TC003_CarInsuranceTest.test11()[pri:11, instance:TestCases.TC006_HealthInsuranceNewTest@3857f613]" name="test11" class="TestCases.TC003_CarInsuranceTest"/>
+        <method signature="TC006_HealthInsuranceNewTest.test12()[pri:12, instance:TestCases.TC006_HealthInsuranceNewTest@3857f613]" name="test12" class="TestCases.TC006_HealthInsuranceNewTest"/>
+        <method signature="TC001_HomePageTest.test1()[pri:1, instance:TestCases.TC006_HealthInsuranceNewTest@6913c1fb]" name="test1" class="TestCases.TC001_HomePageTest"/>
+        <method signature="TC002_TravelDetailsTest.test2()[pri:2, instance:TestCases.TC006_HealthInsuranceNewTest@6913c1fb]" name="test2" class="TestCases.TC002_TravelDetailsTest"/>
+        <method signature="TC002_TravelDetailsTest.test3()[pri:3, instance:TestCases.TC006_HealthInsuranceNewTest@6913c1fb]" name="test3" class="TestCases.TC002_TravelDetailsTest"/>
+        <method signature="TC002_TravelDetailsTest.test4()[pri:4, instance:TestCases.TC006_HealthInsuranceNewTest@6913c1fb]" name="test4" class="TestCases.TC002_TravelDetailsTest"/>
+        <method signature="TC002_TravelDetailsTest.test5()[pri:5, instance:TestCases.TC006_HealthInsuranceNewTest@6913c1fb]" name="test5" class="TestCases.TC002_TravelDetailsTest"/>
+        <method signature="TC002_TravelDetailsTest.test6()[pri:6, instance:TestCases.TC006_HealthInsuranceNewTest@6913c1fb]" name="test6" class="TestCases.TC002_TravelDetailsTest"/>
+        <method signature="TC002_TravelDetailsTest.test7()[pri:7, instance:TestCases.TC006_HealthInsuranceNewTest@6913c1fb]" name="test7" class="TestCases.TC002_TravelDetailsTest"/>
+        <method signature="TC002_TravelDetailsTest.test8()[pri:8, instance:TestCases.TC006_HealthInsuranceNewTest@6913c1fb]" name="test8" class="TestCases.TC002_TravelDetailsTest"/>
+        <method signature="TC003_CarInsuranceTest.test9()[pri:9, instance:TestCases.TC006_HealthInsuranceNewTest@6913c1fb]" name="test9" class="TestCases.TC003_CarInsuranceTest"/>
+        <method signature="TC003_CarInsuranceTest.test10()[pri:10, instance:TestCases.TC006_HealthInsuranceNewTest@6913c1fb]" name="test10" class="TestCases.TC003_CarInsuranceTest"/>
+        <method signature="TC003_CarInsuranceTest.test11()[pri:11, instance:TestCases.TC006_HealthInsuranceNewTest@6913c1fb]" name="test11" class="TestCases.TC003_CarInsuranceTest"/>
+        <method signature="TC006_HealthInsuranceNewTest.test12()[pri:12, instance:TestCases.TC006_HealthInsuranceNewTest@6913c1fb]" name="test12" class="TestCases.TC006_HealthInsuranceNewTest"/>
+      </group> <!-- Master -->
+    </groups>
+    <test started-at="2024-02-15T13:00:32 IST" name="Test" finished-at="2024-02-15T13:02:12 IST" duration-ms="100163">
+      <class name="TestCases.TC006_HealthInsuranceNewTest">
+        <test-method is-config="true" signature="Setup(java.lang.String,java.lang.String)[pri:0, instance:TestCases.TC006_HealthInsuranceNewTest@3857f613]" started-at="2024-02-15T13:00:33 IST" name="Setup" finished-at="2024-02-15T13:00:44 IST" duration-ms="11027" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="test1()[pri:1, instance:TestCases.TC006_HealthInsuranceNewTest@3857f613]" started-at="2024-02-15T13:00:44 IST" name="test1" finished-at="2024-02-15T13:00:49 IST" duration-ms="5475" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:2, instance:TestCases.TC006_HealthInsuranceNewTest@3857f613]" started-at="2024-02-15T13:00:50 IST" name="test2" finished-at="2024-02-15T13:00:52 IST" duration-ms="2393" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test3()[pri:3, instance:TestCases.TC006_HealthInsuranceNewTest@3857f613]" started-at="2024-02-15T13:00:52 IST" name="test3" finished-at="2024-02-15T13:00:52 IST" duration-ms="72" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method signature="test4()[pri:4, instance:TestCases.TC006_HealthInsuranceNewTest@3857f613]" started-at="2024-02-15T13:00:53 IST" name="test4" finished-at="2024-02-15T13:00:58 IST" duration-ms="4990" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method signature="test5()[pri:5, instance:TestCases.TC006_HealthInsuranceNewTest@3857f613]" started-at="2024-02-15T13:00:58 IST" name="test5" finished-at="2024-02-15T13:01:01 IST" duration-ms="2692" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method signature="test6()[pri:6, instance:TestCases.TC006_HealthInsuranceNewTest@3857f613]" started-at="2024-02-15T13:01:01 IST" name="test6" finished-at="2024-02-15T13:01:01 IST" duration-ms="128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+        <test-method signature="test7()[pri:7, instance:TestCases.TC006_HealthInsuranceNewTest@3857f613]" started-at="2024-02-15T13:01:02 IST" name="test7" finished-at="2024-02-15T13:01:02 IST" duration-ms="529" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test7 -->
+        <test-method signature="test8()[pri:8, instance:TestCases.TC006_HealthInsuranceNewTest@3857f613]" started-at="2024-02-15T13:01:02 IST" name="test8" finished-at="2024-02-15T13:01:35 IST" duration-ms="32512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test8 -->
+        <test-method signature="test9()[pri:9, instance:TestCases.TC006_HealthInsuranceNewTest@3857f613]" started-at="2024-02-15T13:01:35 IST" name="test9" finished-at="2024-02-15T13:01:39 IST" duration-ms="3728" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test9 -->
+        <test-method signature="test10()[pri:10, instance:TestCases.TC006_HealthInsuranceNewTest@3857f613]" started-at="2024-02-15T13:01:39 IST" name="test10" finished-at="2024-02-15T13:01:51 IST" duration-ms="12192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test10 -->
+        <test-method signature="test11()[pri:11, instance:TestCases.TC006_HealthInsuranceNewTest@3857f613]" started-at="2024-02-15T13:01:52 IST" name="test11" finished-at="2024-02-15T13:02:04 IST" duration-ms="12113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test11 -->
+        <test-method signature="test12()[pri:12, instance:TestCases.TC006_HealthInsuranceNewTest@3857f613]" started-at="2024-02-15T13:02:04 IST" name="test12" finished-at="2024-02-15T13:02:11 IST" duration-ms="6980" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test12 -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:TestCases.TC006_HealthInsuranceNewTest@3857f613]" started-at="2024-02-15T13:02:11 IST" name="TearDown" finished-at="2024-02-15T13:02:12 IST" duration-ms="1219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- TestCases.TC006_HealthInsuranceNewTest -->
+    </test> <!-- Test -->
+    <test started-at="2024-02-15T13:02:13 IST" name="Test2" finished-at="2024-02-15T13:03:47 IST" duration-ms="93935">
+      <class name="TestCases.TC006_HealthInsuranceNewTest">
+        <test-method is-config="true" signature="Setup(java.lang.String,java.lang.String)[pri:0, instance:TestCases.TC006_HealthInsuranceNewTest@6913c1fb]" started-at="2024-02-15T13:02:13 IST" name="Setup" finished-at="2024-02-15T13:02:21 IST" duration-ms="8336" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="test1()[pri:1, instance:TestCases.TC006_HealthInsuranceNewTest@6913c1fb]" started-at="2024-02-15T13:02:21 IST" name="test1" finished-at="2024-02-15T13:02:27 IST" duration-ms="5460" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:2, instance:TestCases.TC006_HealthInsuranceNewTest@6913c1fb]" started-at="2024-02-15T13:02:27 IST" name="test2" finished-at="2024-02-15T13:02:29 IST" duration-ms="2426" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test3()[pri:3, instance:TestCases.TC006_HealthInsuranceNewTest@6913c1fb]" started-at="2024-02-15T13:02:30 IST" name="test3" finished-at="2024-02-15T13:02:30 IST" duration-ms="72" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method signature="test4()[pri:4, instance:TestCases.TC006_HealthInsuranceNewTest@6913c1fb]" started-at="2024-02-15T13:02:30 IST" name="test4" finished-at="2024-02-15T13:02:35 IST" duration-ms="4976" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method signature="test5()[pri:5, instance:TestCases.TC006_HealthInsuranceNewTest@6913c1fb]" started-at="2024-02-15T13:02:35 IST" name="test5" finished-at="2024-02-15T13:02:38 IST" duration-ms="2703" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method signature="test6()[pri:6, instance:TestCases.TC006_HealthInsuranceNewTest@6913c1fb]" started-at="2024-02-15T13:02:38 IST" name="test6" finished-at="2024-02-15T13:02:38 IST" duration-ms="85" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+        <test-method signature="test7()[pri:7, instance:TestCases.TC006_HealthInsuranceNewTest@6913c1fb]" started-at="2024-02-15T13:02:39 IST" name="test7" finished-at="2024-02-15T13:02:40 IST" duration-ms="1060" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test7 -->
+        <test-method signature="test8()[pri:8, instance:TestCases.TC006_HealthInsuranceNewTest@6913c1fb]" started-at="2024-02-15T13:02:40 IST" name="test8" finished-at="2024-02-15T13:03:10 IST" duration-ms="30164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test8 -->
+        <test-method signature="test9()[pri:9, instance:TestCases.TC006_HealthInsuranceNewTest@6913c1fb]" started-at="2024-02-15T13:03:10 IST" name="test9" finished-at="2024-02-15T13:03:13 IST" duration-ms="3058" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test9 -->
+        <test-method signature="test10()[pri:10, instance:TestCases.TC006_HealthInsuranceNewTest@6913c1fb]" started-at="2024-02-15T13:03:14 IST" name="test10" finished-at="2024-02-15T13:03:26 IST" duration-ms="12205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test10 -->
+        <test-method signature="test11()[pri:11, instance:TestCases.TC006_HealthInsuranceNewTest@6913c1fb]" started-at="2024-02-15T13:03:26 IST" name="test11" finished-at="2024-02-15T13:03:38 IST" duration-ms="12228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test11 -->
+        <test-method signature="test12()[pri:12, instance:TestCases.TC006_HealthInsuranceNewTest@6913c1fb]" started-at="2024-02-15T13:03:39 IST" name="test12" finished-at="2024-02-15T13:03:45 IST" duration-ms="6576" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test12 -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:TestCases.TC006_HealthInsuranceNewTest@6913c1fb]" started-at="2024-02-15T13:03:46 IST" name="TearDown" finished-at="2024-02-15T13:03:47 IST" duration-ms="1302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- TestCases.TC006_HealthInsuranceNewTest -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>

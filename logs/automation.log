@@ -1,0 +1,8 @@
+13:03:40.565 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+13:03:40.571 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/theme/theme1.xml'
+13:03:40.572 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+13:03:40.573 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+13:03:40.574 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+13:03:40.574 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet3.xml'
+13:03:40.593 [main] INFO  TestCases.TC006_HealthInsuranceNewTest - health insurance menu items listed
+13:03:46.062 [main] INFO  TestCases.TC006_HealthInsuranceNewTest - Page closed
